@@ -1,5 +1,7 @@
 <a name="readme-top"></a>
 
+***Class GitHub Repository: [https://github.com/CUNYTechPrep/2023-fall-data-science-fridays](https://github.com/CUNYTechPrep/2023-fall-data-science-fridays)***
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -109,7 +111,7 @@
 
 - In this repository you can find all of my code examples as the Teaching Assistant for the Fall 2023 Data Science Track Cohort 9 at CUNY Tech Prep (CTP).
 
-- You can also use [NBViwer](https://nbviewer.org/) to see all of my code examople notebooks interactively.
+- You can also use [NBViwer](https://nbviewer.org/) to see all of my code example notebooks interactively.
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
